@@ -1,0 +1,23 @@
+{
+  "name": "csiisz_vux",
+  "version": "1.0.0",
+  "author": "yangshucheng@csiisz.com",
+  "description": "vux package using by my self",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yang0123shu/csiisz_vux.git"
+  },
+  "keywords": [
+    "mnm"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yang0123shu/csiisz_vux/issues"
+  },
+  "homepage": "https://github.com/yang0123shu/csiisz_vux#readme",
+  "devDependencies": {}
+}
